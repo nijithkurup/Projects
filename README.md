@@ -1,2 +1,2 @@
 # Projects
-Personal/Academic projects undertaken
+In this repository, I upload all the personal projects I undertake.
