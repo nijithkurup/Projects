@@ -1,0 +1,7 @@
+Business Objective:
+The primary objective of this project is to forecast weekly sales for each of the 45 Walmart stores. But here, we're also predicting the Consumer Price Index, which is basically how much a household is ready to pay more money to maintain the same lifestyle. And as we'll see in the Visualizations that the CPI is increasing, meaning a person/family is willing to pay more to maintain the same lifestyle. This is good for the company because people will tend to visit the stores more frequently, and we can stock the goods accordingly that will help create a more efficient environment for the business.
+
+Data Source: The data was provided by our professor from Kaggle "https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data"
+
+Limitations:
+The data is time-series data but were supposed to build traditional machine learning algorithms instead of time-series models by the instructor. Using time-series models could have produced much better and accurate forecasts.
