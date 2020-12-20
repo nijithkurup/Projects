@@ -1,0 +1,7 @@
+Objective:
+Potholes on roads pose a risk to people's lives and is a critical issue to address. Since waterlogging is the root cause of pothole formation, particularly in monsoons, it becomes essential to locate and fill those potholes. But manually tracking them down is a job on its own. Machine learning can help us to track down and perform most of the intensive work here.
+
+Data Source: https://www.kaggle.com/atulyakumar98/pothole-detection-dataset?select=potholes
+
+Limitations:
+This project's critical limitations is that all images in the dataset are clicked in broad daylight. An obviously, the model is trained to identify potholes in a similar scenario. One solution to resolve this would be to have more images but snapped with an infrared camera. A dataset containing images clicked with two different sensors will be more helpful because the infrared camera will snap pictures during night time.
