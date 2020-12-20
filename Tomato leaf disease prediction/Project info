@@ -1,0 +1,10 @@
+Motivation behind the project:
+In today's world, where the population is growing at a tremendous pace, the challenges regarding food production are also increasing, with the primary objective of keeping the supply in line with the demand. In agriculture, crop diseases are common, and it becomes crucial to keep the crops away from these diseases. It becomes even more strenuous to keep every plant in check.
+
+Objective:
+The goal of this project is to create a CNN model that can accurately predict if a plant's leaf is healthy or infected, and if infected, then what disease is involved. Here I've used transfer learning and also used the VGG16 model as a base for prediction.
+
+Data Source: https://www.kaggle.com/jarvis705/tomato-leaf-disease/notebooks
+
+Limitations:
+Here I could only use the VGG16 model because of the size of the data, and more importantly, because of hardware limitations.
